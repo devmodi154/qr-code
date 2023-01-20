@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.732ee215.css",
+    "main.js": "/static/js/main.83b1d67d.js",
+    "static/media/bankLogo.svg": "/static/media/bankLogo.499fffc8509dafcbff9f9a72425f75a0.svg",
+    "index.html": "/index.html",
+    "main.732ee215.css.map": "/static/css/main.732ee215.css.map",
+    "main.83b1d67d.js.map": "/static/js/main.83b1d67d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.732ee215.css",
+    "static/js/main.83b1d67d.js"
+  ]
+}
